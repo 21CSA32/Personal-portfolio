@@ -1,0 +1,61 @@
+Generate an ultra-modern, breathtaking, single-page portfolio for Litheeshkumar G — DevOps Engineer from Coimbatore. Make it look EXACTLY like portfolio.siddharth.ai but in a CLEAN WHITE THEME with massive whitespace, premium spacing, and emotional minimalism.
+
+MUST BE 100% SINGLE FILE (index.html) — no external files, no frameworks, pure HTML + CSS + vanilla JS.
+
+COLOR PALETTE:
+--lavender: #E0D4FF
+--sky: #4FC3F7
+--navy: #1A237E
+--white: #ffffff
+--text: #111
+
+HERO SECTION (exactly like Siddharth):
+- Top-left: "Litheeshkumar G" in bold Playfair Display (90px)
+- Top-right: "Cloud & DevOps Engineer" in elegant Inter font (28px)
+- NO email/phone/location in hero — move ALL contact info to footer
+- Circular profile photo: https://i.ibb.co/0jG6Z3K/litheeshkumar-photo.jpg (floating animation, subtle glow, 180px)
+- Center: Typing animation — "I build scalable cloud systems with AWS, Docker & Prometheus"
+- Two huge buttons: "View My Work" (lavender fill, hover pulse) + "Get In Touch" (navy outline)
+
+SECTIONS (minimal, technical, animated — NOT resume dump):
+1. HERO (as above)
+2. ABOUT ME — ONLY 2 lines: "Fresh DevOps Engineer passionate about cloud-native infrastructure. Currently automating everything at Sense 7AI."
+3. PROJECTS — 2 stunning 3D tilt cards:
+   - "Mental Health AI Chatbot" (Facial Emotion + ML)
+   - "AWS CI/CD Pipeline" (CodePipeline + Docker + EC2)
+   → Tech tags + GitHub buttons + hover 3D tilt + glow
+4. EXPERIENCE — ONE elegant card: "DevOps Intern @ Sense 7AI | Jun 2025 – Present" with 4 bullet points (Docker, GCP, Nginx, Power Automate)
+5. SKILLS — 8 floating 3D glowing icons with neon hover:
+   - AWS, Docker, Kubernetes, Terraform, Prometheus, Grafana, Linux, GitHub Actions
+   → Each icon has tooltip + pulse + rotate on hover
+6. CERTIFICATES — 6 minimal glowing cards (2 columns): Google Cloud, AWS VPC, Docker, etc.
+7. AREA OF INTEREST — 3 floating lavender tags: "Cloud Computing in AWS" • "DevOps" • "Linux System Administration" (pulse animation)
+
+FOOTER (like second image):
+- Black background section
+- "Let's Connect" in white
+- Icons: Email, LinkedIn, GitHub (gold/yellow circles, hover glow)
+- Text: "© 2025 Litheeshkumar G — Built with passion & vanilla code"
+
+ANIMATIONS EVERYWHERE:
+- Smooth fade-in + scale on scroll (vanilla JS)
+- 3D tilt + neon glow on all cards (vanilla-tilt.js style but pure CSS/JS)
+- Section titles with animated lavender underline
+- Floating photo with breathe animation
+- Skill icons rotate + glow on hover
+- Buttons pulse + lift
+- Subtle wave background (very light)
+- NO cursor glow, NO coffee animation, NO robot, NO Google Form
+
+FONTS:
+- Name: Playfair Display (bold)
+- Everything else: Inter
+- Load via Google Fonts
+
+MOBILE RESPONSIVE + PRINT-READY (Ctrl+P = clean PDF)
+
+Add emojis in fun places: rocket, brain, gear, laptop
+
+This must NOT look like a resume. It must feel like a $10,000 agency site. Minimal text. Maximum visual impact. Recruiters must say "WOW" in 3 seconds.
+
+Generate COMPLETE working code in ONE index.html file. Must run instantly on Replit with zero errors. Make it the most beautiful DevOps fresher portfolio ever created.
