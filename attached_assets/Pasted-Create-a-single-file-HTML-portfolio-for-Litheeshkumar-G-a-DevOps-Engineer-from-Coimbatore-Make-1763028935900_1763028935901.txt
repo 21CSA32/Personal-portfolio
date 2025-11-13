@@ -1,0 +1,41 @@
+Create a **single-file HTML portfolio** for Litheeshkumar G, a DevOps Engineer from Coimbatore. Make it **visually stunning**, **fully animated**, and **mobile-responsive**.
+
+**Theme**: Light mode only using **white (#ffffff), blue (#007BFF), lavender (#E0D4FF), black (#1a1a1a)**. Use **lavender gradient breathing background** and **blue accents**.
+
+**Structure** (single page, smooth scroll):
+1. **Hero** – Name, title, photo (circular), animated typing effect: "DevOps Engineer | Cloud Enthusiast | AI/ML Builder"
+2. **Contact Bar** – Email, Phone, Location, LinkedIn, GitHub (icons animate on hover)
+3. **Career Objective** – Fade-in paragraph
+4. **Education** – Two cards with slide-in animation
+5. **Certificates** – 6 floating cards in 3×2 grid, hover = glow + tilt
+6. **Projects** – Two large cards with **live demo & GitHub buttons**, pop-up on hover
+7. **Professional Experience** – Timeline with animated line drawing
+8. **Skills** – Progress bars that fill on scroll + skill tags
+9. **Area of Interest** – 3 glowing tags with pulse animation
+10. **Contact Me** – Embedded Google Form + "Send Message" button
+
+**Animations**:
+- All sections **fade + slide in** when scrolled into view
+- Hero text **types itself**
+- Cards **float up** and **glow lavender** on hover
+- Background has **slow lavender pulse**
+- Navbar **sticky**, turns blue on scroll
+- **Every 30 seconds**, a small floating emoji appears in bottom-right: "Still here? Wave" → disappears after 5 sec
+
+**Interactivity**:
+- Dark mode toggle (moon/sun)
+- Smooth scroll to sections
+- "Back to Top" button (rocket emoji)
+- **Live visitor counter** (fake: starts at 1847)
+- **"You’re still here?"** emoji checker every 30 sec
+
+**Extras**:
+- Use **Roboto font** and **Font Awesome**
+- Add **print CSS** so Ctrl+P = exact resume PDF
+- Include **real photo**: https://i.ibb.co/0jG6Z3K/litheeshkumar-photo.jpg
+- Google Form placeholder ready
+- SEO meta tags
+- 100% **single HTML file**, no external files
+- Optimized for **Replit free hosting**
+
+**Make it feel ALIVE, FUN, and PROFESSIONAL** — like a DevOps superhero’s portfolio!
