@@ -61,35 +61,44 @@
         }
 
         .hero {
-            min-height: 100vh;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            position: relative;
-        }
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+}
 
-        .hero-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 120px;
-        }
+/* Updated Header Layout */
+.hero-header {
+    display: flex;
+    justify-content: space-between; /* One left, one right */
+    align-items: center;
+    width: 100%;
+    position: absolute;
+    top: 40px; /* Push to top */
+    left: 0;
+    padding: 0 40px; /* Space from the edges */
+}
 
-        .hero-name {
-            font-family: 'Playfair Display', serif;
-            font-size: 36px;
-            font-weight: 600;
-            color: var(--lavender);
-            cursor: pointer;
-            transition: color 0.4s ease;
-            user-select: none;
-        }
+/* Name → Top Right (Black) */
+.hero-name {
+    font-family: 'Playfair Display', serif;
+    font-size: 24px;       /* Same size as role */
+    font-weight: 600;
+    color: #000;           /* Pure black */
+    cursor: pointer;
+    transition: color 0.4s ease;
+    user-select: none;
+    order: 2;              /* Move to right */
+}
 
-        .hero-role {
-            font-size: 20px;
-            font-weight: 400;
-            color: var(--lavender);
-        }
+/* Role → Top Left (Black) */
+.hero-role {
+    font-size: 24px;       /* Same size as name */
+    font-weight: 600;
+    color: #000;           /* Pure black */
+    order: 1;              /* Move to left */
+}
 
         .hero-content {
             text-align: center;
